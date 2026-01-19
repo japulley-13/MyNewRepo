@@ -1,2 +1,2 @@
-# [My Github Website](https://jennapulley.github.io)
+# https://jennapulley.github.io
 
